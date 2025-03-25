@@ -1,0 +1,6 @@
+ktor:
+    application:
+        modules:
+            - com.codersee.ApplicationKt.module
+    deployment:
+        port: 8080
